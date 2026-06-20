@@ -1,0 +1,27 @@
+Test Case 1
+Input:
+Name: Prathamesh
+Marks: 92
+
+Output:
+Grade: A
+
+------------------------
+
+Test Case 2
+Input:
+Name: Rahul
+Marks: 75
+
+Output:
+Grade: C
+
+------------------------
+
+Test Case 3
+Input:
+Name: Amit
+Marks: 45
+
+Output:
+Grade: F
